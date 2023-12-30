@@ -20,7 +20,7 @@ jobs:
           rust-version: stable
 
       - name: Build Rust Project
-        run: cargo build --release
+        run: cargo run
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
