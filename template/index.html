@@ -71,11 +71,11 @@
 							<article class="thumb">
 								{% if item.category == "album" %}
 									<a href="/plog{{item.path}}" class="link">
-										<img src="{{item.url}}" alt="" />
+										<img src="/plog{{item.url}}" alt="" />
 									</a>
 								{% else %}
-									<a href="{{item.url}}" class="image">
-										<img src="{{item.url}}" alt="" />
+									<a href="/plog{{item.url}}" class="image">
+										<img src="/plog{{item.url}}" alt="" />
                                         {% if item.exif %}
                                             {% if item.exif.parsed %}
                                                 <span class="exif-wrapper">
