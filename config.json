@@ -1,0 +1,125 @@
+{
+  "title": "Evarle's Piclog",
+  "description": "AI-generated art gallery",
+  "author": "Evarle",
+  "children": [
+    {
+      "title": "像素少女",
+      "description": "Pixel style picture",
+      "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/pixelgirl.webp"
+    },
+    {
+      "title": "彩漆艺术",
+      "description": "Watercolor style girls",
+      "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/colorfulgirls/colorfulgirl1.webp",
+      "children": [
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/colorfulgirls/colorfulgirl2.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/colorfulgirls/colorfulgirl3.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/colorfulgirls/colorfulgirl4.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/colorfulgirls/colorfulgirl5.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/colorfulgirls/colorfulgirl6.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/colorfulgirls/colorfulgirl7.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/colorfulgirls/colorfulgirl8.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/colorfulgirls/colorfulgirl9.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/colorfulgirls/colorfulgirl10.webp"
+        }]
+    },
+    {
+      "title": "末世灰烬",
+      "description": "Apocalyptic girl in the end of the world.",
+      "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/apocalypticgirl/apocalypticgirl.webp",
+      "children": [
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/apocalypticgirl/00131.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/apocalypticgirl/00125.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/apocalypticgirl/00127.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/apocalypticgirl/00129.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/apocalypticgirl/apocalypticgirl.webp"
+        }
+      ]
+    },
+    {
+      "title": "赛博机甲",
+      "description": "Cyberpunk",
+      "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/mecha/00108.webp",
+      "children":[
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/mecha/00108.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/mecha/00103.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/mecha/00104.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/mecha/00105.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/mecha/00106.webp"
+        }
+      ]
+    },
+    {
+      "title": "航天少女",
+      "description": "Astronaut",
+      "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/00121.webp",
+      "children":[
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/00121.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/00122.webp"
+        }
+      ]
+    },
+    {
+      "title": "樱花妖狐",
+      "description": "Foxfairy",
+      "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/foxgirl/00152.webp",
+      "children":[
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/foxgirl/00150.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/foxgirl/00152.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/foxgirl/00153.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/foxgirl/00156.webp"
+        },
+        {
+          "url": "https://fastly.jsdelivr.net/gh/Mrzhuo2022/Blogres@latest/images/foxgirl/00157.webp"
+        }
+      ]
+    }
+
+  ]
+}
