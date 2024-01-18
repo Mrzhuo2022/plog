@@ -1,4 +1,4 @@
-name: Build and Deploy Plog
+name: Build And Deploy Plog
 
 on:
   push:
